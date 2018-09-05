@@ -11,6 +11,7 @@ The resolution is not less than 1920 at 1080, the refresh rate of the screen is 
 
 
 
+
 **Sensors:**
 
 - Rotational sensors (gyroscope, accelerometer, magnetometer);
@@ -18,6 +19,7 @@ The resolution is not less than 1920 at 1080, the refresh rate of the screen is 
 - 2 cameras (helmet positioning and controllers in space);
 
 - Proximity sensor (automatic transition to sleep mode).
+
 
 
 
@@ -33,6 +35,7 @@ The resolution is not less than 1920 at 1080, the refresh rate of the screen is 
 
 
 
+
 **Interaction:**
 
 - On / off button;
@@ -41,12 +44,18 @@ The resolution is not less than 1920 at 1080, the refresh rate of the screen is 
 
 
 
-** Communication modules: **
+
+**Communication modules:**
 - Bluetooth 4.0 (integrated in the HMD). Required when using controllers in wireless mode;
+
+
 
 
 **Connection:**
 The connection is via a Y-cable HDMI + USB cable or two conventional cables. All connectors are located at the top of the HMD.
+
+
+
 
 
 **Working modes:**
@@ -63,6 +72,8 @@ There are also software modes:
 
 - VR mirror (primary display image adapted for VR viewing);
 
+
+
 ## Controllers
 ![](https://user-images.githubusercontent.com/9499881/45111900-3688b480-b157-11e8-82b2-e46331f79e03.png)
 
@@ -73,9 +84,11 @@ There are also software modes:
 
 
 
+
 **Connectors:**
 
 - The miniUSB connector for working in the wired controller mode.
+
 
 
 
@@ -84,18 +97,22 @@ Trigger, Grip, A, B, Menu, System and Stick.
 
 
 
+
 **Communication modules:**
 - Bluetooth 4.0 for wireless operation;
 
 
 
-**Power:**
+
+**Power supply:**
 
 Power can occur in two modes:
 
 - Powered by 2 AA batteries;
 
-- Power supply from the helmet;
+- Power supply from the HMD;
+
+
 
 
 **Interaction:**

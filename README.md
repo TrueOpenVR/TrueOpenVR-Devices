@@ -46,12 +46,14 @@ The resolution is not less than 1920 at 1080, the refresh rate of the screen is 
 
 
 **Communication modules:**
+
 - Bluetooth 4.0 (integrated in the HMD). Required when using controllers in wireless mode;
 
 
 
 
 **Connection:**
+
 The connection is via a Y-cable HDMI + USB cable or two conventional cables. All connectors are located at the top of the HMD.
 
 
@@ -93,12 +95,14 @@ There are also software modes:
 
 
 **Buttons:**
+
 Trigger, Grip, A, B, Menu, System and Stick.
 
 
 
 
 **Communication modules:**
+
 - Bluetooth 4.0 for wireless operation;
 
 

@@ -16,7 +16,7 @@ The resolution is not less than 1920 at 1080, the refresh rate of the screen is 
 
 - Rotational sensors (gyroscope, accelerometer, magnetometer);
 
-- 2 cameras (helmet positioning and controllers in space);
+- 2 cameras (hmd positioning and controllers in space);
 
 - Proximity sensor (automatic transition to sleep mode).
 
